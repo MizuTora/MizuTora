@@ -8,4 +8,5 @@
 
 Languages and Tools:
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png https://avatars.mds.yandex.net/i?id=60e15b3c66776ca7aef8e10d24973df9f6086559-4507907-images-thumbs&n=13
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png)https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png) 
+![alt text](https://d3mxt5v3yxgcsr.cloudfront.net/courses/15007/course_15007_image.png?v=1.0)
