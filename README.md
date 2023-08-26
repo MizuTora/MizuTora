@@ -6,4 +6,4 @@
 #### Телеграмм: t.me/MizuTora, 
 #### E-mail: dei455@yandex.ru
 
-#### Владею инструментамит Data Analyst: PostgreSQL, Python, Pandas, Numpy, Matplotlib, SciPy, Tableau
+#### Владею инструментами: PostgreSQL, Python, Pandas, Numpy, Matplotlib, SciPy, Tableau, Excel
