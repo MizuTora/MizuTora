@@ -1,9 +1,7 @@
 # Здравствуйте, меня зовут Смирнов Андрей
 
 ### Контакты
-#### +7 (916) 207-13-76  
-#### t.me/MizuTora
-#### dei455@yandex.ru
+#### Тел. +7 (916) 207-13-76. Телеграмм t.me/MizuTora, E-mail: dei455@yandex.ru
 
 
 Languages and Tools:
