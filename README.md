@@ -7,5 +7,8 @@
 
 
 Languages and Tools:
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/15007/course_15007_image.png?v=1.0" />
+
 
 ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png) ![alt text](https://d3mxt5v3yxgcsr.cloudfront.net/courses/15007/course_15007_image.png?v=1.0)
